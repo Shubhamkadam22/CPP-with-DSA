@@ -1,0 +1,10 @@
+In this directory we are about to start our journey through the world of Data structure and algorithm, and computer progarams 
+that solve many real-life problems. The program development process will require us to reperesnt data in an effictive way and 
+develop suitabe`step-by-step procedure  (or algorithm ) that can be implemented as a computer program. Effictive data represntation 
+requires expertise in the field of data structure. 
+
+--
+Before study the data structure you have to be proficient C++ programmer and an adept analyst of computer programs. These essintial skill are typically 
+gained from intriductory C++ and discrete structure courses. 
+
+In this journey of learning C++ are going to cover review of this skills in four chapter , and much of the materia; coverd in these chapter should already be fimilier to you. 
